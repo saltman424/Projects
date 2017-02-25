@@ -1,0 +1,2 @@
+#KeyboardMouse
+This is a simple C++ application that allows you to use arrow keys to move the mouse cursor, and CTRL and SHIFT keys to click left and right mouse buttons. It can be toggled on and off by pressing F8, and a help screen can be toggled on and off by holding F8. This started as a simple project to allow me to learn C++, but it has actually proved itself useful a few times when I have had broken mice.
