@@ -1,4 +1,4 @@
-#TravelingSalesmanProblem
+# TravelingSalesmanProblem
 Since hearing about the Traveling Salesman Problem, I have put in a number of attempts at solving it. In this one I tried using a greedy algorithm on the width of angles between points. The algorithm iterates through all sets of three points, measures the widest angles between these sets, and sorts based off of those angles. Then it iterates through that angle list and forms the connections that make up those angles so long as each of the points in the would-be connections have less than two connections already formed with them. My basic thought-process behind this was that the wider the angle (i.e. the closer it is to 180 degrees) the less "out of the way" the middle point would be between the other two.
 
 I only tested this with a very limited amount of points, so that I could also run a brute-force algorithm, and compare my algorithm's result with the best possible solution. With only five points the algorithm was moderately successful. However, it does not scale well.

@@ -1,2 +1,2 @@
-#HeroWebScraper
+# HeroWebScraper
 This project was a simple web scraper to allow me to practice web scraping in python while also learning R. It goes through a list of marvel characters, found [here](https://marvel.com/characters/browse "Marvel's Characters"), and then follows each of their links, and gets each character's height and weight (if they have each listed). It then saves this data as a JSON file, and plots this data on a scatterplot graph using R.

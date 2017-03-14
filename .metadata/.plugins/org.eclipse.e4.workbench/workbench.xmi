@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FrequencyCounter.java&quot; tooltip=&quot;C:\Users\Sander\Documents\SCHOOLWORK\OLD\CSCI-C 212 (Intro to Software Systems)\FrequencyCounter.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Sander/Documents/SCHOOLWORK/OLD/CSCI-C%20212%20(Intro%20to%20Software%20Systems)/FrequencyCounter.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;C:\Users\Sander\git\C343saaltman-clone\Lab 7\src\Main.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Sander/git/C343saaltman-clone/Lab%207/src/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_GycwQO57Eeacu57bhvL5kQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_HNyoce57Eeacu57bhvL5kQ" label="%trimmedwindow.label.eclipseSDK" x="190" y="190" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_GycwQO57Eeacu57bhvL5kQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_HNyoce57Eeacu57bhvL5kQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -272,7 +272,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HReOkO57Eeacu57bhvL5kQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_YdDtAPiQEeaZZb7-gQcD2Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_G0k3QO57Eeacu57bhvL5kQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_nxpWIAK8EeescukhLIxoBA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_G0k3QO57Eeacu57bhvL5kQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HRe1oO57Eeacu57bhvL5kQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -296,7 +296,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HRfcsO57Eeacu57bhvL5kQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_YdQhUPiQEeaZZb7-gQcD2Q" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_G0fXq-57Eeacu57bhvL5kQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_nxzuMAK8EeescukhLIxoBA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_G0fXq-57Eeacu57bhvL5kQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HRfcse57Eeacu57bhvL5kQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
