@@ -1,2 +1,2 @@
-#Breakout
+# Breakout
 This is a recreation of the classic Breakout arcade game. One interesting feature is the paddle is rounded and I set it up so that the ball will bounce off at a normalized vector, based off of where it hits the paddle. Additionally, the game features a help menu which displays the controls, and the game allows some cheat controls for the purpose of testing, i.e. skipping levels and controlling the speed at which the ball moves.
